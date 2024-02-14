@@ -1,2 +1,15 @@
 # Automatic-Room-Lighting-System-using-8051-Microcontroller
-This 8051 Microcontroller-based project uses Infrared sensors to create an energy-efficient room lighting system. It detects human movement, automatically turning lights on or off. Simultaneously, it serves as a bidirectional visitor counter, keeping track of individuals entering and leaving the room.
+This project utilizes an 8051 Microcontroller and Infrared (IR) sensors to create an Automatic Room Lighting System with a Bidirectional Visitor Counter. The system automatically controls room lights based on human movement and counts the number of people entering and leaving the room.
+
+Components:
+
+    AT89C51 Microcontroller
+    8051 Development Board
+    2 x Infrared Sensors
+    16 x 2 LCD Display
+    5V Relay Module
+    Lamp
+    Connecting Wires
+    Power Supply
+
+This project serves a dual purpose by efficiently managing room lighting and keeping track of visitor counts. The provided components and their connections enable users to implement this system effectively.
